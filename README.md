@@ -303,8 +303,4 @@ Una vez la aplicación esté corriendo, accede a la documentación interactiva:
 - **OpenAPI JSON:** http://localhost:8080/api-docs
 - **H2 Console (dev):** http://localhost:8080/h2-console
 
----
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
